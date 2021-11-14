@@ -1,0 +1,11 @@
+.swipeButton{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.swipeButton__large{
+    padding: 200px !important;
+}
